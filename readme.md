@@ -29,9 +29,3 @@ This script is particularly useful for:
 
 - **Operating System**: macOS (tested on macOS with `ps -A` command). For Linux, you may need to adjust the `ps` command (e.g., `ps -eo rss,pid,comm`).
 - **Tools**: Standard Unix tools (`bash`, `ps`, `grep`, `awk`, `xargs`, `sort`, `mktemp`, `head`) must be available, which they typically are on macOS and most Unix-like systems.
-
-## Installation
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/yourusername/process-memory-usage-monitor.git
